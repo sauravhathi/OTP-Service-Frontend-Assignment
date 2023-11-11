@@ -41,7 +41,7 @@ Users can choose the OTP type (numeric, alphanumeric, or alphabet-based) and pro
 
 1. Create a public GitHub repository.
 2. Deploy the frontend.
-3. Fill out the [Google Form](https://forms.gle/8QiyJzBhY2PrDDnf8) with the repository and deployment links.
+3. Fill out the [Google Form](https://forms.gle/ApsNYmEX77x4tDF48) with the repository and deployment links.
 
 ## Evaluation Criteria
 
