@@ -6,8 +6,6 @@ Create a single-page application for the OTP Service using React.js or Next.js. 
 
 Users can choose the OTP type (numeric, alphanumeric, or alphabet) and provide additional details such as the organization name and email subject. The service will then send an email containing the OTP to the user's email address.
 
-**Last Date of Submission:** 11:59 PM IST, 14th November 2023
-
 **OTP Service API:** [https://otp-service-beta.vercel.app](https://otp-service-beta.vercel.app)
 
 
@@ -41,7 +39,6 @@ Users can choose the OTP type (numeric, alphanumeric, or alphabet) and provide a
 
 1. Create a public GitHub repository.
 2. Deploy the frontend.
-3. Fill out the [Google Form](https://forms.gle/ApsNYmEX77x4tDF48) with the repository and deployment links.
 
 ## Evaluation Criteria
 
